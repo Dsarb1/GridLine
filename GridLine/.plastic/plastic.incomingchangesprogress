@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      18
+    ],
+    "SourceCsetId": 20,
+    "DestinationCsetId": 18,
+    "FileConflicts": [
+      {
+        "Path": "/Packages/packages-lock.json",
+        "ItemId": 135,
+        "ParentItemId": 130,
+        "BaseRevId": 1207,
+        "SourceRevId": 846,
+        "DestinationRevId": 1207
+      },
+      {
+        "Path": "/ProjectSettings/ProjectVersion.txt",
+        "ItemId": 151,
+        "ParentItemId": 132,
+        "BaseRevId": 1190,
+        "SourceRevId": 849,
+        "DestinationRevId": 1190
+      }
+    ]
+  }
+]
